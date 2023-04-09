@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dania/static/css/main.e4b21b1f.chunk.css",
+    "main.js": "/dania/static/js/main.b0502c97.chunk.js",
+    "main.js.map": "/dania/static/js/main.b0502c97.chunk.js.map",
+    "runtime-main.js": "/dania/static/js/runtime-main.cafcfc3f.js",
+    "runtime-main.js.map": "/dania/static/js/runtime-main.cafcfc3f.js.map",
+    "static/css/2.3f074615.chunk.css": "/dania/static/css/2.3f074615.chunk.css",
+    "static/js/2.e7c76e23.chunk.js": "/dania/static/js/2.e7c76e23.chunk.js",
+    "static/js/2.e7c76e23.chunk.js.map": "/dania/static/js/2.e7c76e23.chunk.js.map",
+    "index.html": "/dania/index.html",
+    "precache-manifest.1665c604ae54f67668fa046ba6cc57a7.js": "/dania/precache-manifest.1665c604ae54f67668fa046ba6cc57a7.js",
+    "service-worker.js": "/dania/service-worker.js",
+    "static/css/2.3f074615.chunk.css.map": "/dania/static/css/2.3f074615.chunk.css.map",
+    "static/css/main.e4b21b1f.chunk.css.map": "/dania/static/css/main.e4b21b1f.chunk.css.map",
+    "static/js/2.e7c76e23.chunk.js.LICENSE.txt": "/dania/static/js/2.e7c76e23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cafcfc3f.js",
+    "static/css/2.3f074615.chunk.css",
+    "static/js/2.e7c76e23.chunk.js",
+    "static/css/main.e4b21b1f.chunk.css",
+    "static/js/main.b0502c97.chunk.js"
+  ]
+}

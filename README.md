@@ -49,3 +49,4 @@
 
 ##  To-do list
 - [ ] Buy a custom domain
+- [ ] Resolve the font issues
